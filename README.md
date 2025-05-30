@@ -10,6 +10,9 @@ Este proyecto es una plantilla base que combina:
 
 🧹 Configuración mínima para empezar a construir una app SPA con la mejor experiencia de desarrollo.
 
+## 📦 Contenido principal
+
+```plaintext
 📦 Contenido principal
 ├── index.html          # Punto de entrada HTML
 ├── package.json        # Dependencias y scripts
@@ -21,4 +24,3 @@ Este proyecto es una plantilla base que combina:
 │   └── index.css       # Estilos globales
 ├── .eslintrc.cjs       # Configuración ESLint
 └── .gitignore          # Archivos ignorados por Git
-
