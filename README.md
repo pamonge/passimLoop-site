@@ -11,9 +11,6 @@ Este proyecto es una plantilla base que combina:
 🧹 Configuración mínima para empezar a construir una app SPA con la mejor experiencia de desarrollo.
 
 📦 Contenido principal
-plaintext
-Copiar
-Editar
 ├── index.html          # Punto de entrada HTML
 ├── package.json        # Dependencias y scripts
 ├── vite.config.js      # Configuración Vite
@@ -24,3 +21,4 @@ Editar
 │   └── index.css       # Estilos globales
 ├── .eslintrc.cjs       # Configuración ESLint
 └── .gitignore          # Archivos ignorados por Git
+
